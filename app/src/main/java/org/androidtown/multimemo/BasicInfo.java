@@ -28,5 +28,8 @@ public class BasicInfo {
 	 */
 	public static final String URI_MEDIA_FORMAT		= "content://media";
 
-
+	/**
+         * 데이터베이스 이름
+	 */
+	public static String DATABASE_NAME = "MultimediaMemo/memo.db";
 }
